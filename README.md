@@ -1,3 +1,1 @@
-# hello-world
-my first repo
-CHNAGES MADE BY PK TO NEW BRANCH
+Simple naive project just to get hands on using Tkinter
